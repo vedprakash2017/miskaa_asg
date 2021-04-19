@@ -1,4 +1,6 @@
 # miskaa_asg
 
-Basic Api, 
-Backend - flask
+Basic Api <br />
+Backend - flask <br />
+Change database name and uri 
+
